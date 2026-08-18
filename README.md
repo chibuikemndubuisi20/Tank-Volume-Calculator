@@ -11,10 +11,10 @@ Displays results in cubic metres.
 
 Technologies:
 
-Python
+Python,
 Math library
 
-How to Run
+How to Run:
 
 Run main.py using Python.
 
