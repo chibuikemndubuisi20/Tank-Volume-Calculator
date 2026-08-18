@@ -3,14 +3,17 @@ Tank Volume Calculator
 A Python program for calculating the volume of different tank geometries.
 
 Features:
-Calculates the volume of cylindrical tanks
-Calculates the volume of spherical tanks
-Calculates the volume of conical tanks
-Accepts user inputs for dimensions
-Displays results in cubic metres
-Technologies
+Calculates the volume of cylindrical tanks, 
+Calculates the volume of spherical tanks, 
+Calculates the volume of conical tanks,
+Accepts user inputs for dimensions,
+Displays results in cubic metres.
+
+Technologies:
+
 Python
 Math library
+
 How to Run
 
 Run main.py using Python.
